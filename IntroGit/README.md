@@ -7,3 +7,9 @@
 - <strong> git log </strong> visulizar los commit relizados en el proyecto
 - <strong> git push origin <i>rama</i></strong> subir cambios a repositorio
 - <strong> git log --oneline </strong> visulizar commits y ramas
+- <strong> git branch nombre-rama </strong> crear rama
+- <strong> git checkout nombre-rama </strong> cambiar 
+
+### TOOLS
+- Fig -> auto complete
+- Oh-my-zsh ->
