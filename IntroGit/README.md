@@ -8,7 +8,9 @@
 - <strong> git push origin <i>rama</i></strong> subir cambios a repositorio
 - <strong> git log --oneline </strong> visulizar commits y ramas
 - <strong> git branch nombre-rama </strong> crear rama
-- <strong> git checkout nombre-rama </strong> cambiar 
+- <strong> git checkout nombre-rama </strong> cambiar rama
+- <strong> git merge nombre-rama </strong> unir cambios de dos ramas
+- <strong> git branch - d nombre-rama </strong> elimar rama
 
 ### TOOLS
 - Fig -> auto complete
